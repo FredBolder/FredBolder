@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to my page on GitHub!!
 
-<!--
-**FredBolder/FredBolder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="Fred_Bolder.jpg" width="200">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Fred Bolder.
+
+## Some of my sites
+
+[Greek Rhythms](https://www.youtube.com/@dansblad)
+
+[frEDrums](https://www.dansblad.nl/fredrums/)
+
+[frEDrums YouTube](https://www.youtube.com/@fredrums5209)
+
