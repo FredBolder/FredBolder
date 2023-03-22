@@ -7,6 +7,8 @@ My name is Fred Bolder.
 
 ## Some of my sites
 
+[Fred Bolder's Portfolio](https://fredbolder.github.io/portfolio/)
+
 [Greek Rhythms](https://www.youtube.com/@dansblad)
 
 [frEDrums](https://www.dansblad.nl/fredrums/)
