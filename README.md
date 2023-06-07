@@ -11,7 +11,7 @@ My name is Fred Bolder.
 
 [Greek Rhythms](https://www.youtube.com/@dansblad)
 
-[frEDrums](https://www.dansblad.nl/fredrums/)
+[frEDrums](https://fredbolder.github.io/fredrums/)
 
 [frEDrums YouTube](https://www.youtube.com/@fredrums5209)
 
